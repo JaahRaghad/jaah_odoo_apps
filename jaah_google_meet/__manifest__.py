@@ -15,7 +15,7 @@
     'support': 'support@jaah.it',
     'company': 'jaah ERP',
     'currency': 'SR',
-    'price': ' ',
+    'price': '1',
     'depends': ['contacts', 'calendar'],
     'data': [
         'views/res_company_views.xml',
