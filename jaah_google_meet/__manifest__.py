@@ -14,7 +14,7 @@
     'website': "https://www.jaah.it",
     'support': 'support@jaah.it',
     'company': 'jaah ERP',
-    'currency': 'SR',
+    'currency': 'USD',
     'price': '1',
     'depends': ['contacts', 'calendar'],
     'data': [
